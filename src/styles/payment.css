@@ -1,0 +1,26 @@
+
+.table  tr th{
+    width: 100px;
+}
+
+
+.text-create{
+    width: 500px;
+    text-align: center;
+}
+.paynow{
+    width: 100px;
+}
+
+
+.qr-code{
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-top: 5px;
+}
+.logo-promtpay{
+    width: 200px;
+    height: 60px;
+    margin: auto auto;
+    display: block;
+}
